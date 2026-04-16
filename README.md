@@ -61,9 +61,4 @@ github → https://github.com/Sharvesh93
 
 ---
 
-## note
-
-this profile is a work in progress, just like me.
-
----
 
