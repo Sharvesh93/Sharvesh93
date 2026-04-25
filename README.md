@@ -31,7 +31,7 @@ not rushing. just getting better step by step.
 
 * using Linux as my main system
 * building small things and experimenting
-* currently learning machine learning basics
+* currently learning DevOps basics
 * focusing on fundamentals
 
 ---
