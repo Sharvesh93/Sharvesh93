@@ -23,42 +23,40 @@ Student • Linux user • Figuring things out
 I'm a computer science student who prefers understanding over memorizing.
 I like breaking systems, fixing them, and learning how they actually work underneath.
 
-not rushing. just getting better step by step.
+Not rushing. just getting better step by step.
 
 ---
 
 ## Current state
 
-* using Linux as my main system
-* building small things and experimenting
-* currently learning machine learning basics
-* focusing on fundamentals
+* Using Linux as my main system
+* Building small things and experimenting
+* Currently learning machine learning basics
+* Focusing on fundamentals
 
 ---
 
 ## Interests
 
-* system internals
-* developer workflows
-* minimal setups
-* anything that makes me think
+* System internals
+* Developer workflows
+* Minimal setups
+* Anything that makes me think
 
 ---
 
 ## Tools
 
-* arch-based linux
-* git / github
-* terminal
-* vscode (sometimes)
+* Arch-based linux
+* Git / Github
+* Terminal
+* VScode (sometimes)
 
 ---
 
 ## Contact
 
-linkedin → www.linkedin.com/in/sharvesh-r-v-sp0506
-github → https://github.com/Sharvesh93
-
+Linkedin → www.linkedin.com/in/sharvesh-r-v-sp0506
 ---
 
 
