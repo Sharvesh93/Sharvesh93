@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="190" viewBox="0 0 800 190" role="img" aria-label="Terminal boot sequence: system booting, user online, environment Linux, with a blinking cursor">
+  <rect width="800" height="190" fill="#000000"/>
+  <rect x="1" y="1" width="798" height="188" fill="none" stroke="#6b6b6b" stroke-width="2"/>
+  <g font-family="'Courier New', Courier, monospace" font-size="16" fill="#d0d0d0">
+    <text x="24" y="38" opacity="0">SYSTEM BOOTING...
+      <animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="0.01s" fill="freeze"/>
+    </text>
+    <text x="24" y="66" opacity="0">[ OK ] kernel loaded
+      <animate attributeName="opacity" from="0" to="1" begin="1.0s" dur="0.01s" fill="freeze"/>
+    </text>
+    <text x="24" y="90" opacity="0">[ OK ] filesystem mounted
+      <animate attributeName="opacity" from="0" to="1" begin="1.6s" dur="0.01s" fill="freeze"/>
+    </text>
+    <text x="24" y="114" opacity="0">[ OK ] network: online
+      <animate attributeName="opacity" from="0" to="1" begin="2.2s" dur="0.01s" fill="freeze"/>
+    </text>
+    <text x="24" y="150" fill="#ffffff" opacity="0">login: guest
+      <animate attributeName="opacity" from="0" to="1" begin="2.9s" dur="0.01s" fill="freeze"/>
+    </text>
+    <rect x="130" y="136" width="10" height="18" fill="#ffffff" opacity="0">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" begin="2.9s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
