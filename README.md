@@ -114,7 +114,7 @@ drwxr-xr-x  NetSentinal/         Network monitoring project
 ## `$ cat currently_learning.txt`
 
 ```text
-- Pytest and automated testing
+- CI/CD pipeline
 - Python backend development
 - Linux and Bash scripting
 ```
