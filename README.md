@@ -16,9 +16,9 @@
 │   ╚═╗╠═╣╠═╣╠╦╝╚╗╔╝║╣ ╚═╗╠═╣                          │
 │   ╚═╝╩ ╩╩ ╩╩╚═ ╚╝ ╚═╝╚═╝╩ ╩                          │
 │                                                      │
-│   USER ........ SHARVESH  │
+│   USER ........ SHARVESH                             │
 │   STATUS ...... ONLINE                               │
-│   ENVIRONMENT . ARCH LINUX                                │
+│   ENVIRONMENT . ARCH LINUX                           │
 │   SHELL ....... /bin/bash                            │
 │                                                      │
 │   > Welcome to my digital workspace_                 │
